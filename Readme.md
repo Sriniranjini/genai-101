@@ -8,4 +8,4 @@ This project was created as a capstone project for the GenAI 101 workshop, showc
 
 ## Task Overview
 
-Look at the documentation [here](/Readme.md)
+Look at the documentation [here](/docs.md)
